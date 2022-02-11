@@ -1,2 +1,16 @@
+*{box-sizing: border-box;}
 p{color:rosybrown;}
 h3{color: seagreen;}
+.contenedor{ max-width: 960px;
+margin: auto;}
+.box1{color: crimson;}
+.H3R{color: chartreuse;}
+.box1{border:darkblue solid}
+.box1 h1{padding: 20px 30px;
+}
+.box{
+    display: inline-block;
+    border: solid tomato; 
+border-width: 2px;
+padding: 10px;
+background-color: cadetblue;
